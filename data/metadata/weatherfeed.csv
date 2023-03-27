@@ -1,0 +1,26 @@
+﻿feedid,weather_type,locationid,unit,source,url
+1,temperature,Edinburgh,0.1C,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Edinburgh.json
+2,conditions,Edinburgh,text,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Edinburgh.json
+3,humidity,Edinburgh,0.1%,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Edinburgh.json
+4,windspeed,Edinburgh,0.1kph,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Edinburgh.json
+5,winddirection,Edinburgh,,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Edinburgh.json
+24,windspeed,Midlothian,0.1kph,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Penicuik.json
+23,humidity,Midlothian,0.1%,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Penicuik.json
+22,conditions,Midlothian,text,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Penicuik.json
+21,temperature,Midlothian,0.1C,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Penicuik.json
+20,winddirection,WestLothian,,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Livingston.json
+19,windspeed,WestLothian,0.1kph,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Livingston.json
+18,humidity,WestLothian,0.1%,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Livingston.json
+17,conditions,WestLothian,text,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Livingston.json
+16,temperature,WestLothian,0.1C,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Livingston.json
+25,winddirection,Midlothian,,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Penicuik.json
+26,temperature,EastLothian,0.1C,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/North%20Berwick.json
+27,conditions,EastLothian,text,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/North%20Berwick.json
+28,humidity,EastLothian,0.1%,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/North%20Berwick.json
+29,windspeed,EastLothian,0.1kph,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/North%20Berwick.json
+30,winddirection,EastLothian,,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/North%20Berwick.json
+31,temperature,Fife,0.1C,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Kirkcaldy.json
+32,conditions,Fife,text,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Kirkcaldy.json
+33,humidity,Fife,0.1%,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Kirkcaldy.json
+34,windspeed,Fife,0.1kph,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Kirkcaldy.json
+35,winddirection,Fife,,Weather Underground (https://www.wunderground.com/),http://api.wunderground.com/api/2ade142c965f0193/geolookup/conditions/q/UK/Kirkcaldy.json

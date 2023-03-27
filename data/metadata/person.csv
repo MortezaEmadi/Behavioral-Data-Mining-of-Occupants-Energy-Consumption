@@ -1,0 +1,617 @@
+﻿personid,homeid,primaryparticipant,relationtoprimary,gender,ageband,workingstatus,weeklyhoursofwork,education,ageleavingeducation,signedup,startdate,highest_earner
+617,47,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2016-08-16,0
+618,47,0,"Husband, wife or partner",Male,20-24,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,0,2016-08-16,0
+621,59,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2016-10-06,1
+622,59,0,"Husband, wife or partner",Female,30-34,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2016-10-06,0
+1047,59,0,"Son or daughter, inc. adopted, step, foster and in-law",,0-4,,,,,0,2017-09-22,0
+623,61,1,,Male,50-54,Paid work,31-40,Other qualifications,16,1,2016-10-06,0
+624,61,0,"Husband, wife or partner",Female,55-59,Paid work,31-40,A-Levels or Highers,18,0,2016-10-06,1
+625,62,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2016-08-26,0
+626,62,0,"Husband, wife or partner",Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2016-08-26,1
+631,63,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",33,1,2016-10-28,0
+632,63,0,"Husband, wife or partner",Female,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",30,0,2016-10-28,1
+627,64,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",28,1,2016-10-20,0
+628,64,0,"Husband, wife or partner",Male,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2016-10-20,1
+629,64,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,,,No formal qualifications,,0,2016-10-20,0
+630,64,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,,,No formal qualifications,,0,2016-10-20,0
+633,65,1,,Male,45-49,Paid work,41-50,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,15,1,2016-11-09,1
+634,65,0,"Husband, wife or partner",Female,45-49,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",40,0,2016-11-09,0
+637,66,1,,Male,30-34,Paid work,31-40,PhD,28,0,2016-11-23,0
+638,66,0,"Husband, wife or partner",Female,35-39,Paid work,21-30,PhD,29,1,2016-11-23,1
+639,66,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,,,,,0,2016-11-23,0
+1018,66,0,"Son or daughter, inc. adopted, step, foster and in-law",,0-4,,,,,0,2017-09-22,0
+635,67,1,,Male,50-54,Paid work,41-50,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,1,2016-12-05,1
+636,67,0,"Husband, wife or partner",Female,50-54,Paid work,41-50,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,0,2016-12-05,0
+640,68,1,,Female,50-54,Paid work,21-30,Higher educational qualification below degree level,21,1,2016-11-24,0
+645,69,1,,Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-01-04,1
+646,69,0,"Husband, wife or partner",Male,40-44,Paid work,31-40,Higher educational qualification below degree level,19,0,2017-01-04,0
+647,69,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,,0,2017-01-04,0
+648,69,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-01-04,0
+641,70,1,,Female,25-29,"A student in University, college, higher education or adult education ",1-10,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",96,1,2016-12-07,0
+655,71,1,,Female,20-24,"A student in University, college, higher education or adult education ",41-50,PhD,96,1,2017-01-11,0
+651,72,1,,Male,55-59,Self-employed,31-40,PhD,,1,2017-01-04,0
+652,72,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,PhD,,0,2017-01-04,1
+642,73,1,,Male,45-49,Self-employed,1-10,A-Levels or Highers,19,1,2016-12-15,1
+643,73,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,96,0,2016-12-15,0
+644,73,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,96,0,2016-12-15,0
+653,74,1,,Male,50-54,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-01-05,1
+654,74,0,"Husband, wife or partner",Female,55-59,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-01-05,0
+649,75,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-01-10,1
+650,75,0,"Husband, wife or partner",Male,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-01-10,0
+657,76,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-01-18,1
+658,76,0,"Husband, wife or partner",Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-01-18,0
+659,76,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-01-18,0
+660,76,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-01-18,0
+656,77,1,,Female,50-54,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-01-17,0
+664,78,1,,Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",30,1,2017-01-19,1
+665,78,0,"Husband, wife or partner",Female,35-39,Voluntary or unpaid work,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,0,2017-01-19,0
+666,78,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-01-19,0
+661,79,1,,Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-01-17,1
+662,79,0,"Husband, wife or partner",Male,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",32,0,2017-01-17,0
+663,79,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,,0,2017-01-17,0
+667,80,1,,Female,20-24,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-01-24,0
+668,81,1,,Male,70-74,Retired,,Higher educational qualification below degree level,26,1,2017-01-26,1
+669,81,0,"Husband, wife or partner",Female,65-69,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-01-26,0
+672,82,1,,Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-01-30,0
+673,82,0,"Husband, wife or partner",Male,45-49,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,0,2017-01-30,1
+670,83,1,,Male,55-59,Paid work,31-40,No formal qualifications ,15,1,2017-01-31,1
+671,83,0,"Husband, wife or partner",Female,55-59,Paid work,31-40,No formal qualifications,15,0,2017-01-31,0
+674,84,1,,Male,35-39,Paid work,31-40,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,16,1,2017-01-31,0
+675,84,0,"Husband, wife or partner",Female,30-34,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,0,2017-01-31,1
+676,84,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-01-31,0
+677,84,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-01-31,0
+678,85,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-02-02,0
+679,85,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,,0,2017-02-02,1
+680,85,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,,0,2017-02-02,0
+682,86,1,,Male,70-74,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",51,1,2017-02-02,1
+683,86,0,"Husband, wife or partner",Female,65-69,Retired,,Other qualifications,17,0,2017-02-02,0
+681,88,1,,Female,70-74,Retired,,PhD,22,1,2017-02-02,0
+684,89,1,,,60-64,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",18,1,2017-02-09,0
+685,90,1,,Female,55-59,Voluntary or unpaid work,,Higher educational qualification below degree level,22,1,2017-02-09,0
+686,91,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-02-14,1
+687,91,0,Lodger,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-02-14,0
+688,92,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-02-14,0
+689,92,0,"Husband, wife or partner",Female,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-02-14,1
+690,92,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-02-14,0
+691,92,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,96,0,2017-02-14,0
+692,93,1,,Male,50-54,Paid work,41-50,PhD,24,1,2017-02-14,1
+693,93,0,"Husband, wife or partner",Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-02-14,0
+694,93,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,15-19,A student at school or in further education,,ONC / National Level BTEC,96,0,2017-02-14,0
+695,93,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-02-14,0
+696,94,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-02-21,1
+697,94,0,"Husband, wife or partner",Male,30-34,Paid work,,PhD,31,0,2017-02-21,0
+698,96,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-02-28,0
+699,96,0,"Husband, wife or partner",Male,40-44,Paid work,41-50,PhD,24,0,2017-02-28,1
+700,96,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-02-28,0
+701,96,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-02-28,0
+702,96,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-02-28,0
+703,97,1,,Female,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,1,2017-03-02,1
+704,97,0,"Husband, wife or partner",Male,55-59,Paid work,31-40,A-Levels or Highers,18,0,2017-03-02,0
+705,97,0,,Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-03-02,0
+706,98,1,,Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",38,1,2017-03-02,1
+707,98,0,"Husband, wife or partner",Male,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-03-02,0
+708,98,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-03-02,0
+710,99,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",29,1,2017-03-07,1
+711,99,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-03-07,0
+712,99,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-03-07,0
+713,99,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-03-07,0
+709,100,1,,Male,50-54,Paid work,31-40,Higher educational qualification below degree level,17,1,2017-03-07,0
+714,101,1,,Female,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",30,1,2017-03-09,0
+715,102,1,,Female,50-54,Retired,,A-Levels or Highers,19,1,2017-03-09,0
+716,102,0,"Husband, wife or partner",Male,50-54,Paid work,41-50,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,16,0,2017-03-09,1
+717,102,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,20-24,Paid work,41-50,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,16,0,2017-03-09,0
+731,105,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-04-25,0
+723,106,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-04-13,0
+718,107,1,,Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",43,1,2017-04-04,1
+719,107,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,Other qualifications,,0,2017-04-04,0
+724,109,1,,Male,45-49,Paid work,31-40,A-Levels or Highers,35,1,2017-04-13,1
+725,109,0,"Husband, wife or partner",Female,50-54,Paid work,21-30,A-Levels or Highers,18,0,2017-04-13,0
+726,109,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,Other qualifications,96,0,2017-04-13,0
+727,109,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,Paid work,31-40,ONC / National Level BTEC,18,0,2017-04-13,0
+728,110,1,,Female,45-49,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,1,2017-04-18,0
+729,110,0,"Husband, wife or partner",Male,45-49,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,0,2017-04-18,1
+730,110,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,No formal qualifications,96,0,2017-04-18,0
+757,113,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",18,1,2017-06-20,1
+758,113,0,"Husband, wife or partner",Female,30-34,Looking after home/family,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-06-20,0
+741,114,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-06-13,1
+1320,114,0,"Husband, wife or partner",Female,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-06-13,0
+1344,114,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,,0
+742,115,1,,Female,35-39,Paid work,31-40,Higher educational qualification below degree level,16,1,2017-06-13,0
+743,115,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,,0,2017-06-13,0
+744,115,0,"Son or daughter, inc. adopted, step, foster and in-law",,5-9,A student at school or in further education,,No formal qualifications,,0,2017-06-13,1
+745,116,1,,Male,50-54,Unemployed (not seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-06-13,1
+746,116,0,"Husband, wife or partner",Female,45-49,Self-employed,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-06-13,0
+756,117,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-06-20,0
+747,118,1,,Female,25-29,Unemployed (seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-06-14,1
+748,118,0,"Husband, wife or partner",Male,25-29,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-06-14,0
+759,119,1,,Male,60-64,Self-employed,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-06-20,0
+760,119,0,"Husband, wife or partner",Female,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-06-20,1
+749,120,1,,Female,75-79,Voluntary or unpaid work,,Higher educational qualification below degree level,21,1,2017-06-14,0
+750,121,1,,Male,65-69,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-06-14,0
+751,121,0,"Husband, wife or partner",Female,60-64,Self-employed,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-06-14,1
+761,122,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-06-21,0
+762,122,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,PhD,25,1,2017-06-21,1
+763,122,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,,0,2017-06-21,0
+764,123,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-06-21,0
+765,123,0,"Husband, wife or partner",Male,55-59,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-06-21,1
+766,123,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,,96,0,2017-06-21,0
+767,123,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,,96,0,2017-06-21,0
+768,124,1,,Female,55-59,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",18,1,2017-06-21,1
+769,124,0,"Husband, wife or partner",Male,55-59,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-06-21,0
+770,124,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,25-29,Paid work,11-20,ONC / National Level BTEC,20,0,2017-06-21,0
+771,125,1,,Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-06-22,1
+772,125,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,96,0,2017-06-22,0
+752,126,1,,Male,50-54,Other,,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,1,2017-06-15,0
+773,128,1,,Male,40-44,Paid work,31-40,Higher educational qualification below degree level,27,1,2017-06-22,0
+774,128,0,,Male,40-44,Paid work,31-40,Higher educational qualification below degree level,27,0,2017-06-22,0
+753,129,1,,,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",36,1,2017-06-15,0
+754,129,0,"Husband, wife or partner",Male,40-44,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-06-15,1
+755,129,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,,0,2017-06-15,0
+775,133,1,,Male,55-59,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-06-27,0
+776,133,0,"Husband, wife or partner",Female,55-59,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-06-27,1
+777,133,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,A-Levels or Highers,96,0,2017-06-27,0
+778,133,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,"A student in University, college, higher education or adult education ",,A-Levels or Highers,96,0,2017-06-27,0
+779,134,0,"Husband, wife or partner",Male,50-54,Paid work,31-40,PhD,32,0,2017-06-28,0
+780,134,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,97,0,2017-06-28,1
+781,134,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,97,0,2017-06-28,0
+878,134,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-06-28,0
+783,135,1,,Female,25-29,"A student in University, college, higher education or adult education ",,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",96,1,2017-06-28,1
+784,135,0,Lodger,Female,25-29,"A student in University, college, higher education or adult education ",,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",96,0,2017-06-28,0
+782,136,1,,Female,65-69,Self-employed,21-30,PhD,26,1,2017-06-28,0
+785,137,1,,Female,30-34,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-07-03,0
+786,137,0,"Husband, wife or partner",Male,30-34,Paid work,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-07-03,1
+787,138,1,,Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-07-04,0
+788,138,0,"Husband, wife or partner",Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",17,0,2017-07-04,1
+789,138,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-07-04,0
+790,138,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,A student at school or in further education,,No formal qualifications,96,0,2017-07-04,0
+791,138,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,96,0,2017-07-04,0
+792,139,1,,Female,25-29,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-07-04,1
+793,139,0,Non-relative,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-07-04,0
+794,139,0,Non-relative,Male,25-29,"A student in University, college, higher education or adult education ",11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-07-04,0
+795,140,1,,Male,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-07-04,1
+796,140,0,"Husband, wife or partner",Female,35-39,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-07-04,0
+797,140,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-07-04,0
+798,141,1,,,50-54,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-07-05,0
+799,143,1,,Female,75-79,Retired,,No formal qualifications ,59,1,2017-07-06,1
+800,143,0,"Grand-child, inc. adopted, step, foster and in-law",Male,15-19,Unemployed (seeking work),,No formal qualifications,16,0,2017-07-06,0
+801,144,1,,Female,35-39,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-07-07,1
+802,144,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-07-07,0
+803,145,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-07-10,1
+804,145,0,Lodger,Female,30-34,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-07-10,0
+805,146,1,,Male,55-59,Unemployed (not seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-07-11,0
+806,146,0,"Husband, wife or partner",Female,55-59,Unemployed (not seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-07-11,1
+807,146,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,"A student in University, college, higher education or adult education ",,A-Levels or Highers,96,0,2017-07-11,0
+808,146,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,Paid work,11-20,A-Levels or Highers,96,0,2017-07-11,0
+809,147,1,,Male,40-44,Paid work,31-40,A-Levels or Highers,19,1,2017-07-11,1
+810,147,0,Lodger,Male,30-34,Other,1-10,A-Levels or Highers,23,0,2017-07-11,0
+811,147,0,Lodger,Male,30-34,Paid work,31-40,A-Levels or Highers,23,0,2017-07-11,0
+812,148,1,,Female,30-34,Looking after home/family,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-07-12,0
+813,148,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-07-12,1
+814,148,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,96,0,2017-07-12,0
+815,149,1,,Female,65-69,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-07-13,1
+816,149,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-07-13,0
+817,150,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",27,1,2017-07-14,0
+818,150,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,PhD,26,0,2017-07-14,1
+819,151,1,,,50-54,Paid work,31-40,Higher educational qualification below degree level,16,0,2017-07-14,1
+820,151,0,"Husband, wife or partner",Female,50-54,Paid work,31-40,Higher educational qualification below degree level,17,1,2017-07-14,0
+828,152,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-07-18,0
+829,152,0,"Parent, inc. step, foster and in-law",Female,50-54,Unemployed (not seeking work),,No formal qualifications,18,0,2017-07-18,0
+830,152,0,"Brother or sister, inc. adopted, step, foster and in-law",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-07-18,1
+831,152,0,"Brother or sister, inc. adopted, step, foster and in-law",Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-07-18,0
+832,152,0,"Brother or sister, inc. adopted, step, foster and in-law",Female,20-24,"A student in University, college, higher education or adult education ",1-10,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",96,0,2017-07-18,0
+824,153,1,,Female,25-29,Self-employed,31-40,Higher educational qualification below degree level,24,1,2017-07-19,0
+825,153,0,"Husband, wife or partner",Male,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-07-19,1
+821,154,1,,Female,35-39,Paid work,31-40,Higher educational qualification below degree level,21,1,2017-07-19,0
+822,154,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,Higher educational qualification below degree level,27,0,2017-07-19,1
+823,154,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,31-40,No formal qualifications,,0,2017-07-19,0
+826,155,1,,Male,65-69,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-07-20,1
+827,155,0,"Husband, wife or partner",Female,60-64,Retired,,Higher educational qualification below degree level,21,0,2017-07-20,0
+884,156,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,1,2017-08-22,0
+872,157,1,,Female,45-49,Paid work,31-40,Higher educational qualification below degree level,18,1,2017-08-11,1
+873,157,0,"Husband, wife or partner",Male,50-54,Paid work,31-40,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,16,0,2017-08-11,0
+841,158,0,"Husband, wife or partner",Male,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-07-25,1
+842,158,1,,Male,30-34,Paid work,41-50,PhD,33,1,2017-07-25,0
+845,159,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-07-26,1
+846,159,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-07-26,0
+843,160,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-07-26,1
+844,160,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-07-26,0
+847,161,1,,Female,70-74,Other,,A-Levels or Highers,16,1,2017-07-26,1
+848,161,0,"Grand-child, inc. adopted, step, foster and in-law",Male,30-34,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-07-26,0
+874,162,1,,Male,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-08-14,1
+875,162,0,"Husband, wife or partner",Female,20-24,Paid work,31-40,Higher educational qualification below degree level,96,0,2017-08-14,0
+876,163,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-08-15,1
+877,163,0,"Husband, wife or partner",Female,25-29,Paid work,21-30,Higher educational qualification below degree level,16,0,2017-08-15,0
+849,164,1,,Male,45-49,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-07-27,0
+850,164,0,"Husband, wife or partner",Female,25-29,Paid work,31-40,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,16,0,2017-07-27,1
+851,164,0,"Parent, inc. step, foster and in-law",Female,55-59,Paid work,21-30,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,16,0,2017-07-27,0
+852,165,1,,Male,80+,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,1,2017-07-27,0
+853,166,1,,Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-07-27,1
+854,166,0,"Husband, wife or partner",Male,60-64,Self-employed,31-40,ONC / National Level BTEC,97,0,2017-07-27,0
+855,166,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-07-27,0
+619,167,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2016-08-25,0
+620,167,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2016-08-25,1
+1013,167,0,"Son or daughter, inc. adopted, step, foster and in-law",,0-4,,,,,0,2017-09-29,0
+856,168,1,,Male,40-44,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,,1,2017-08-02,1
+1326,168,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",16,0,2017-08-02,0
+1327,168,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,15-19,A student at school or in further education,,No formal qualifications,,0,2017-08-02,0
+1328,168,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,,0,2017-08-02,0
+857,169,1,,Male,40-44,Paid work,31-40,Higher educational qualification below degree level,22,1,2017-08-02,0
+858,170,1,,Female,50-54,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-08-03,0
+859,170,0,"Husband, wife or partner",Male,50-54,Paid work,31-40,Higher educational qualification below degree level,21,0,2017-08-03,1
+860,170,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-08-03,0
+861,170,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-08-03,0
+863,171,1,,Female,65-69,Other,21-30,Other qualifications,15,1,2017-08-03,0
+864,173,1,,Female,25-29,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-08-08,0
+865,173,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-08-08,1
+866,173,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-08-08,0
+867,173,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Other,,No formal qualifications,97,0,2017-08-08,0
+868,174,1,,Male,50-54,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-08-09,1
+869,174,0,"Husband, wife or partner",Female,50-54,Paid work,21-30,Other qualifications,22,0,2017-08-09,0
+870,174,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,"A student in University, college, higher education or adult education ",,Higher educational qualification below degree level,96,0,2017-08-09,0
+871,174,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,15-19,A student at school or in further education,,Higher educational qualification below degree level,96,0,2017-08-09,0
+879,175,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",20,1,2017-08-21,1
+880,175,0,"Husband, wife or partner",Female,45-49,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",18,0,2017-08-21,0
+881,176,1,,Male,45-49,Self-employed,41-50,No formal qualifications ,17,1,2017-08-21,1
+882,176,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,A-Levels or Highers,18,0,2017-08-21,0
+883,176,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,Unemployed (seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-08-21,0
+889,177,1,,Male,40-44,Paid work,31-40,PhD,24,1,2017-08-24,1
+890,177,0,"Husband, wife or partner",Female,35-39,Self-employed,1-10,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",30,0,2017-08-24,0
+891,177,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,,,,,0,2017-08-24,0
+892,177,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,,,,,0,2017-08-24,0
+893,178,1,,Male,30-34,Paid work,31-40,A-Levels or Highers,,0,2017-08-24,1
+894,178,0,"Husband, wife or partner",Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-08-24,0
+888,179,1,,Male,45-49,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",30,1,2017-08-23,0
+885,180,1,,Female,40-44,Paid work,31-40,A-Levels or Highers,24,1,2017-08-23,1
+886,180,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,20-24,Paid work,41-50,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,17,0,2017-08-23,0
+887,180,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,A-Levels or Highers,,0,2017-08-23,0
+895,181,1,,Female,40-44,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-08-25,0
+896,181,0,"Husband, wife or partner",Male,40-44,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-08-25,1
+897,181,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-08-25,0
+898,181,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-08-25,0
+899,182,1,,Female,60-64,Retired,,PhD,25,1,2017-08-29,1
+900,182,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,25-29,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-08-29,0
+901,182,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,"A student in University, college, higher education or adult education ",1-10,Higher educational qualification below degree level,96,0,2017-08-29,0
+902,182,0,Lodger,Male,25-29,"A student in University, college, higher education or adult education ",,PhD,29,0,2017-08-29,0
+903,183,1,,Male,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",20,1,2017-08-30,1
+904,183,0,"Husband, wife or partner",Female,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-08-30,0
+905,184,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-08-31,1
+906,184,0,"Husband, wife or partner",Female,35-39,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-08-31,0
+907,185,1,,Female,45-49,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-09-01,0
+908,185,0,"Husband, wife or partner",Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-09-01,1
+909,185,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,,0,2017-09-01,0
+916,186,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-09-08,0
+917,186,0,"Husband, wife or partner",Female,30-34,Paid work,31-40,Higher educational qualification below degree level,22,1,2017-09-08,1
+910,187,1,,Male,55-59,Retired,,Higher educational qualification below degree level,17,1,2017-09-04,0
+911,188,1,,Female,40-44,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-09-05,0
+912,188,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,Higher educational qualification below degree level,24,0,2017-09-05,1
+913,188,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-09-05,0
+914,189,1,,Female,20-24,Paid work,41-50,Higher educational qualification below degree level,19,1,2017-09-06,0
+915,189,0,"Husband, wife or partner",Male,25-29,Paid work,41-50,Higher educational qualification below degree level,18,0,2017-09-06,1
+1130,190,1,,Male,35-39,Paid work,41-50,,22,1,2017-11-14,0
+1205,190,0,"Husband, wife or partner",Female,25-29,Unemployed (seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",20,0,2017-11-14,1
+922,191,1,,Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",28,0,2017-09-13,0
+923,191,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,Higher educational qualification below degree level,24,1,2017-09-13,1
+924,191,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-09-13,0
+925,191,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-09-13,0
+918,192,1,,Male,55-59,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-09-13,1
+919,192,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,0,2017-09-13,0
+920,192,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,97,0,2017-09-13,0
+921,192,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,97,0,2017-09-13,0
+926,193,1,,Female,45-49,Self-employed,41-50,Other qualifications,,1,2017-09-19,0
+927,194,1,,Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-09-19,0
+928,195,1,,Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-09-20,1
+929,195,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,Paid work,,A-Levels or Highers,18,0,2017-09-20,0
+930,195,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,"A student in University, college, higher education or adult education ",,A-Levels or Highers,96,0,2017-09-20,0
+931,195,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,,96,0,2017-09-20,0
+972,197,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-09-26,0
+987,199,1,,Female,45-49,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-09-28,0
+988,199,0,"Husband, wife or partner",Male,45-49,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-09-28,1
+989,199,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,15-19,A student at school or in further education,,A-Levels or Highers,96,0,2017-09-28,0
+990,199,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,15-19,A student at school or in further education,,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,96,0,2017-09-28,0
+991,200,1,,Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-09-28,0
+992,200,0,"Husband, wife or partner",Male,50-54,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",28,0,2017-09-28,1
+993,200,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,"A student in University, college, higher education or adult education ",11-20,A-Levels or Highers,96,0,2017-09-28,0
+994,200,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-09-28,0
+995,200,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-09-28,0
+996,201,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-09-29,1
+997,201,0,"Husband, wife or partner",Female,35-39,Looking after home/family,1-10,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-09-29,0
+998,201,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-09-29,0
+999,201,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-09-29,0
+1000,201,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Other,,No formal qualifications,97,0,2017-09-29,0
+1001,202,1,,Male,60-64,Paid work,31-40,Other qualifications,16,1,2017-09-29,0
+1007,203,1,,Female,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",19,1,2017-10-02,0
+1019,205,1,,Male,55-59,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-10-05,0
+1020,205,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-10-05,1
+1111,206,1,,Male,45-49,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,17,0,2017-11-14,1
+1112,206,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,1,2017-11-14,0
+1113,206,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,"A student in University, college, higher education or adult education ",1-10,Higher educational qualification below degree level,96,0,2017-11-14,0
+1114,206,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,1-10,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,96,0,2017-11-14,0
+1023,207,1,,,45-49,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,19,1,2017-10-05,0
+1024,207,0,Non-relative,Male,50-54,,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,18,0,2017-10-05,0
+1025,207,0,Non-relative,Male,35-39,Paid work,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,18,0,2017-10-05,1
+1021,208,1,,Female,40-44,Paid work,31-40,PhD,29,1,2017-10-06,1
+1022,208,0,Lodger,Male,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-10-06,0
+1058,209,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-10-20,0
+1026,210,1,,,45-49,Paid work,31-40,Higher educational qualification below degree level,19,0,2017-10-09,0
+1027,210,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-10-09,0
+1028,210,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,,0,2017-10-09,1
+1029,210,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,,0,2017-10-09,0
+1030,211,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-10-10,0
+1031,211,0,"Husband, wife or partner",Female,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-10-10,1
+1032,211,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,A-Levels or Highers,96,0,2017-10-10,0
+1033,212,1,,Female,35-39,"A student in University, college, higher education or adult education ",,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-10-11,0
+1034,212,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-10-11,0
+1035,212,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-10-11,1
+1036,213,1,,Female,25-29,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-10-12,0
+1037,214,1,,Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-10-12,1
+1038,214,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-10-12,0
+1039,214,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-10-12,0
+1040,215,1,,Male,25-29,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-10-12,0
+1041,215,0,"Husband, wife or partner",Female,20-24,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-10-12,1
+1042,216,1,,Female,50-54,Paid work,31-40,Higher educational qualification below degree level,19,1,2017-10-13,0
+1043,218,1,,Female,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-10-13,0
+1044,218,0,"Husband, wife or partner",Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-10-13,1
+1045,218,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,,0,2017-10-13,0
+1046,218,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-10-13,0
+1048,219,1,,Female,30-34,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,1,2017-10-16,0
+1049,221,1,,Female,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-10-17,1
+1050,221,0,"Husband, wife or partner",Male,50-54,Unemployed (not seeking work),,Higher educational qualification below degree level,19,0,2017-10-17,0
+1051,222,1,,Female,45-49,Paid work,21-30,Higher educational qualification below degree level,16,1,2017-10-18,1
+1052,222,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,96,0,2017-10-18,0
+1053,222,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-10-18,0
+1054,223,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-10-18,0
+1055,223,0,"Husband, wife or partner",Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-10-18,0
+1056,223,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,,0,2017-10-18,0
+1057,223,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-10-18,1
+1059,224,1,,Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-10-24,0
+1060,224,0,"Husband, wife or partner",Male,40-44,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-10-24,1
+1061,225,1,,Male,65-69,Voluntary or unpaid work,1-10,PhD,25,1,2017-10-24,0
+1062,225,0,"Husband, wife or partner",Female,55-59,Paid work,31-40,PhD,24,0,2017-10-24,1
+1063,226,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-10-25,0
+1314,226,0,"Husband, wife or partner",Male,30-34,Self-employed,31-40,PhD,26,0,2017-10-25,1
+1065,227,1,,Male,35-39,"A student in University, college, higher education or adult education ",,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,18,1,2017-10-27,0
+1066,227,0,"Husband, wife or partner",Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-10-27,1
+1064,228,1,,Male,35-39,Paid work,41-50,PhD,35,1,2017-10-27,0
+1067,229,1,,Female,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-10-30,0
+1068,229,0,"Husband, wife or partner",Male,30-34,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-10-30,1
+1069,229,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,Pre-school/ nursery,,No formal qualifications,97,0,2017-10-30,0
+1070,229,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-10-30,0
+1074,230,1,,Female,45-49,Looking after home/family,1-10,A-Levels or Highers,17,0,2017-10-30,0
+1075,230,0,"Husband, wife or partner",Male,40-44,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-10-30,1
+1076,230,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,1-10,A-Levels or Highers,,0,2017-10-30,0
+1077,230,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,,0,2017-10-30,0
+1078,230,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,,0,2017-10-30,0
+1079,231,1,,Male,65-69,Other,11-20,Higher educational qualification below degree level,22,1,2017-10-30,0
+1322,231,0,"Husband, wife or partner",Female,65-69,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",62,0,2017-10-30,0
+1071,232,1,,Female,40-44,Paid work,21-30,PhD,33,1,2017-10-30,0
+1072,232,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,PhD,31,0,2017-10-30,1
+1073,232,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,21-30,No formal qualifications,,0,2017-10-30,0
+1080,233,1,,Female,45-49,Paid work,31-40,Higher educational qualification below degree level,18,0,2017-11-01,0
+1081,233,0,"Husband, wife or partner",Male,45-49,Paid work,31-40,Higher educational qualification below degree level,21,1,2017-11-01,1
+1082,233,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,ONC / National Level BTEC,,0,2017-11-01,0
+1083,233,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,,,0,2017-11-01,0
+1089,234,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-11-01,0
+1092,235,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-03,0
+1084,236,1,,Female,35-39,"A student in University, college, higher education or adult education ",,Higher educational qualification below degree level,36,1,2017-11-01,0
+1085,236,0,"Husband, wife or partner",Male,35-39,Paid work,31-40,Higher educational qualification below degree level,21,0,2017-11-01,1
+1086,236,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2017-11-01,0
+1087,236,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-11-01,0
+1088,236,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-11-01,0
+1090,237,1,,Male,30-34,Paid work,41-50,PhD,27,1,2017-11-02,0
+1091,237,0,"Husband, wife or partner",Female,25-29,Paid work,51+,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-11-02,1
+1093,238,1,,Male,65-69,Retired,,Higher educational qualification below degree level,18,1,2017-11-03,1
+1094,238,0,"Husband, wife or partner",Female,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-11-03,0
+1115,239,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-14,1
+1116,239,0,"Husband, wife or partner",Male,25-29,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,0,2017-11-14,0
+1095,240,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-11-06,1
+1096,240,0,"Husband, wife or partner",Female,35-39,Paid work,31-40,PhD,34,0,2017-11-06,0
+1097,240,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,,0,2017-11-06,0
+1098,240,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,,0,2017-11-06,0
+1102,241,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-11-07,1
+1103,241,0,"Husband, wife or partner",Male,30-34,"A student in University, college, higher education or adult education ",31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-11-07,0
+1104,242,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",31,1,2017-11-07,0
+1105,242,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,Other qualifications,96,0,2017-11-07,1
+1106,242,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-11-07,0
+1099,243,1,,Male,40-44,"A student in University, college, higher education or adult education ",,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",96,0,2017-11-07,0
+1100,243,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-07,1
+1101,243,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-11-07,0
+1107,244,1,,,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-11-08,1
+1108,244,0,"Husband, wife or partner",Male,40-44,Self-employed,31-40,Higher educational qualification below degree level,19,0,2017-11-08,0
+1109,244,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,A student at school or in further education,,,96,0,2017-11-08,0
+1110,244,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,,Pre-school/ nursery,,,96,0,2017-11-08,0
+1117,245,1,,Male,45-49,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-09,1
+1118,245,0,"Husband, wife or partner",Female,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-11-09,0
+1119,245,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,,0,2017-11-09,0
+1120,246,1,,Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-09,0
+1121,246,0,"Husband, wife or partner",Male,55-59,Paid work,51+,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-11-09,1
+1122,246,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,"A student in University, college, higher education or adult education ",,A-Levels or Highers,96,0,2017-11-09,0
+1123,247,1,,Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-13,1
+1124,247,0,"Husband, wife or partner",Female,45-49,"A student in University, college, higher education or adult education ",,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-11-13,0
+1125,247,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,,,No formal qualifications,97,0,2017-11-13,0
+1128,248,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-11-13,1
+1129,248,0,Non-relative,Female,20-24,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,0,2017-11-13,0
+1126,249,1,,,40-44,Unemployed (seeking work),11-20,Higher educational qualification below degree level,19,1,2017-11-13,0
+1127,249,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,0,2017-11-13,1
+1131,250,1,,Male,30-34,Paid work,31-40,PhD,26,1,2017-11-17,1
+1132,250,0,"Husband, wife or partner",Female,25-29,Self-employed,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,0,2017-11-17,0
+1133,251,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-17,0
+1139,252,1,,Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-11-21,1
+1140,252,0,"Husband, wife or partner",Male,45-49,Paid work,41-50,Higher educational qualification below degree level,20,0,2017-11-21,0
+1141,252,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-11-21,0
+1163,253,1,,Female,30-34,Other,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-12-07,0
+1164,253,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",20,0,2017-12-07,1
+1134,254,1,,Female,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-11-21,0
+1135,254,0,"Husband, wife or partner",Male,40-44,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-11-21,1
+1136,254,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,No formal qualifications,97,0,2017-11-21,0
+1137,254,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,97,0,2017-11-21,0
+1138,254,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,97,0,2017-11-21,0
+1165,255,1,,Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",31,1,2017-12-07,1
+1166,255,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,"A student in University, college, higher education or adult education ",,A-Levels or Highers,,0,2017-12-07,0
+1167,255,0,Non-relative,Male,20-24,Paid work,31-40,Higher educational qualification below degree level,18,0,2017-12-07,0
+1142,256,1,,Female,45-49,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-11-27,0
+1143,256,0,"Husband, wife or partner",Male,40-44,Paid work,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-11-27,1
+1146,257,1,,Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2017-11-29,0
+1147,258,1,,Male,20-24,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-11-29,1
+1148,258,0,"Husband, wife or partner",Female,20-24,Unemployed (seeking work),,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-11-29,0
+1176,259,1,,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-12-11,1
+1177,259,0,"Husband, wife or partner",Male,25-29,"A student in University, college, higher education or adult education ",31-40,PhD,96,0,2017-12-11,0
+1149,260,1,,Male,60-64,Paid work,11-20,Higher educational qualification below degree level,17,0,2017-11-30,0
+1150,260,0,"Husband, wife or partner",Female,60-64,Paid work,31-40,Higher educational qualification below degree level,16,1,2017-11-30,1
+1153,261,1,,Male,60-64,Paid work,31-40,Other qualifications,28,1,2017-12-04,1
+1154,261,0,"Husband, wife or partner",Female,55-59,Paid work,31-40,A-Levels or Highers,19,0,2017-12-04,0
+1155,261,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,25-29,"A student in University, college, higher education or adult education ",11-20,Higher educational qualification below degree level,96,0,2017-12-04,0
+1151,262,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-12-04,1
+1152,262,0,Lodger,Female,30-34,Paid work,31-40,A-Levels or Highers,18,0,2017-12-04,0
+1160,263,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-12-06,0
+1161,263,0,"Husband, wife or partner",Male,35-39,Paid work,41-50,Other qualifications,21,0,2017-12-06,1
+1162,263,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,,,0,2017-12-06,0
+1156,264,1,,Male,35-39,Paid work,31-40,Higher educational qualification below degree level,21,1,2017-12-06,0
+1157,264,0,"Husband, wife or partner",Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2017-12-06,1
+1158,264,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-12-06,0
+1159,264,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-12-06,0
+1173,265,1,,Male,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-12-11,0
+1174,265,0,"Husband, wife or partner",Female,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-12-11,1
+1175,265,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Other,,No formal qualifications,97,0,2017-12-11,0
+1168,266,1,,Male,40-44,Paid work,41-50,PhD,21,1,2017-12-07,1
+1169,266,0,Lodger,Female,25-29,Paid work,41-50,PhD,27,0,2017-12-07,0
+1170,267,1,,Male,25-29,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2017-12-07,1
+1171,267,0,Lodger,Female,25-29,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-12-07,0
+1172,268,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",28,1,2017-12-08,0
+1184,269,1,,Male,60-64,Paid work,31-40,Other qualifications,15,0,2017-12-14,0
+1185,269,0,"Husband, wife or partner",Female,50-54,Paid work,41-50,Higher educational qualification below degree level,21,1,2017-12-14,1
+1180,270,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2017-12-12,0
+1181,270,0,"Husband, wife or partner",Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2017-12-12,1
+1182,270,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-12-12,0
+1183,270,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-12-12,0
+1189,271,1,,Male,40-44,Paid work,31-40,Higher educational qualification below degree level,19,1,2017-12-14,0
+1186,272,1,,Male,25-29,Paid work,31-40,PhD,26,1,2017-12-14,1
+1187,272,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-12-14,0
+1188,273,1,,Female,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,1,2017-12-14,0
+1342,273,0,"Husband, wife or partner",Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2017-12-14,1
+1343,273,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,No formal qualifications,96,0,2017-12-14,0
+1190,274,1,,Female,35-39,Paid work,31-40,Other qualifications,17,1,2017-12-18,0
+1191,275,1,,Female,45-49,Permanently sick/disabled,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,1,2017-12-18,0
+1192,276,1,,Male,50-54,Looking after home/family,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-12-19,0
+1193,276,0,"Husband, wife or partner",Female,45-49,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-12-19,1
+1198,277,1,,Male,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",17,1,2017-12-19,1
+1199,277,0,"Husband, wife or partner",Female,60-64,Retired,,Higher educational qualification below degree level,18,0,2017-12-19,0
+1194,278,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2017-12-19,1
+1195,278,0,"Husband, wife or partner",Male,30-34,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2017-12-19,0
+1213,279,1,,Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-01-17,0
+1201,280,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2017-12-22,1
+1202,280,0,"Husband, wife or partner",Female,40-44,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2017-12-22,0
+1203,280,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,97,0,2017-12-22,0
+1214,281,1,,Male,30-34,Paid work,31-40,Higher educational qualification below degree level,96,1,2018-01-17,1
+1215,281,0,"Husband, wife or partner",Female,25-29,Paid work,31-40,A-Levels or Highers,18,0,2018-01-17,0
+1206,282,1,,Female,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2018-01-11,0
+1207,282,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2018-01-11,1
+1208,282,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2018-01-11,0
+1209,282,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,,0,2018-01-11,0
+1210,283,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2018-01-12,1
+1211,283,0,Other relative,Male,65-69,Retired,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,15,0,2018-01-12,0
+1217,284,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2018-01-18,1
+1218,284,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2018-01-18,0
+1219,284,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2018-01-18,0
+1220,285,1,,Male,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-01-18,1
+1221,285,0,"Husband, wife or partner",Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2018-01-18,0
+1222,286,1,,,60-64,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,1,2018-01-22,0
+1227,287,1,,Male,50-54,Paid work,31-40,PhD,25,1,2018-01-31,0
+1228,287,0,"Husband, wife or partner",Female,45-49,Paid work,41-50,PhD,25,0,2018-01-31,1
+1229,287,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2018-01-31,0
+1230,287,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2018-01-31,0
+1232,288,1,,Female,15-19,"A student in University, college, higher education or adult education ",11-20,Higher educational qualification below degree level,96,1,2018-02-05,0
+1233,288,0,Non-relative,Female,15-19,Paid work,31-40,A-Levels or Highers,18,0,2018-02-05,1
+1231,289,1,,Male,50-54,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",34,1,2018-02-05,0
+1238,290,1,,Male,50-54,Paid work,31-40,Higher educational qualification below degree level,16,1,2018-02-16,1
+1239,290,0,"Husband, wife or partner",Female,50-54,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2018-02-16,0
+1240,290,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,20-24,Paid work,21-30,ONC / National Level BTEC,20,0,2018-02-16,0
+1223,291,1,,,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",28,1,2018-01-25,0
+1224,291,0,"Husband, wife or partner",Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",25,0,2018-01-25,1
+1225,292,1,,Male,65-69,Retired,,PhD,28,1,2018-01-25,0
+1226,292,0,"Husband, wife or partner",Female,60-64,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",18,0,2018-01-25,1
+1236,293,1,,Male,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2018-02-14,0
+1237,293,0,"Husband, wife or partner",Female,25-29,Paid work,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2018-02-14,1
+1234,294,1,,Female,20-24,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-02-12,1
+1235,294,0,Non-relative,Female,20-24,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2018-02-12,0
+1241,295,1,,Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2018-02-16,0
+1242,296,1,,Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,1,2018-02-16,1
+1243,296,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,,0,2018-02-16,0
+1244,296,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6,,0,2018-02-16,0
+1246,298,1,,Female,25-29,Paid work,31-40,Higher educational qualification below degree level,21,0,2018-02-20,0
+1247,298,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",29,1,2018-02-20,1
+1245,299,1,,Female,65-69,Retired,,A-Levels or Highers,15,1,2018-02-20,0
+1248,300,1,,Male,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-02-21,0
+1251,301,1,,Female,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",6,1,2018-02-23,0
+1252,301,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",9,0,2018-02-23,1
+1253,301,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,A student at school or in further education,21-30,No formal qualifications,,0,2018-02-23,0
+1249,302,1,,Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,0,2018-02-23,0
+1250,302,0,Non-relative,Female,25-29,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2018-02-23,1
+1254,303,1,,,30-34,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",26,1,2018-02-26,0
+1255,304,1,,Female,50-54,Looking after home/family,,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,1,2018-02-27,0
+1256,304,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,Paid work,21-30,A-Levels or Highers,17,0,2018-02-27,0
+1257,304,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,20-24,Unemployed (seeking work),,Other qualifications,19,0,2018-02-27,1
+1262,305,1,,Female,25-29,Paid work,31-40,PhD,29,0,2018-03-05,0
+1263,305,0,"Husband, wife or partner",Male,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2018-03-05,1
+1258,306,1,,Male,55-59,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",39,1,2018-03-05,0
+1259,306,0,"Husband, wife or partner",Female,50-54,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",42,0,2018-03-05,1
+1260,306,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,15-19,A student at school or in further education,,,,0,2018-03-05,0
+1261,306,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,,,0,2018-03-05,0
+1264,307,1,,Female,45-49,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,1,2018-03-06,0
+1265,307,0,"Husband, wife or partner",Male,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2018-03-06,1
+1266,307,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,97,0,2018-03-06,0
+1267,307,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,97,0,2018-03-06,0
+1268,308,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-03-07,0
+1269,308,0,"Husband, wife or partner",Female,35-39,Paid work,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",20,0,2018-03-07,1
+1272,309,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-03-08,1
+1273,309,0,"Husband, wife or partner",Female,30-34,Unemployed (not seeking work),,Higher educational qualification below degree level,23,0,2018-03-08,0
+1274,309,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,96,0,2018-03-08,0
+1270,310,1,,Female,25-29,"A student in University, college, higher education or adult education ",51+,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",96,1,2018-03-08,0
+1271,310,0,Non-relative,Female,20-24,Paid work,51+,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2018-03-08,1
+1278,311,1,,Male,55-59,Paid work,31-40,Higher educational qualification below degree level,18,1,2018-03-12,1
+1279,311,0,"Husband, wife or partner",Female,60-64,Self-employed,21-30,A-Levels or Highers,18,0,2018-03-12,0
+1280,313,1,,Female,35-39,Paid work,31-40,PhD,29,1,2018-03-13,0
+1281,315,1,,,40-44,Paid work,41-50,PhD,21,1,2018-03-15,1
+1282,315,0,"Husband, wife or partner",Female,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",20,0,2018-03-15,0
+1283,316,1,,Female,50-54,Self-employed,11-20,Higher educational qualification below degree level,,0,2018-03-16,0
+1284,316,0,"Husband, wife or partner",Male,45-49,Paid work,51+,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,1,2018-03-16,1
+1285,316,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,,,0,2018-03-16,0
+1286,317,1,,Male,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-03-20,0
+1289,318,1,,Female,45-49,Paid work,11-20,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2018-03-20,0
+1290,318,0,"Husband, wife or partner",Male,45-49,Paid work,31-40,A-Levels or Highers,19,0,2018-03-20,1
+1291,318,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,15-19,A student at school or in further education,,Other qualifications,96,0,2018-03-20,0
+1292,318,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,5-9,A student at school or in further education,,Other qualifications,96,0,2018-03-20,0
+1287,319,1,,Male,80+,Retired,,Higher educational qualification below degree level,18,1,2018-03-20,0
+1288,319,0,Lodger,Male,55-59,Self-employed,,Higher educational qualification below degree level,23,0,2018-03-20,1
+1293,320,1,,Female,35-39,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2018-03-22,1
+1294,320,0,"Husband, wife or partner",Male,30-34,Paid work,11-20,A-Levels or Highers,22,0,2018-03-22,0
+1295,321,1,,Female,55-59,Retired,,A-Levels or Highers,19,1,2018-03-23,0
+1299,322,1,,Male,50-54,Self-employed,31-40,Higher educational qualification below degree level,22,1,2018-03-28,0
+1300,322,0,"Husband, wife or partner",Female,50-54,Paid work,31-40,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,17,0,2018-03-28,1
+1301,322,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,,96,0,2018-03-28,0
+1296,323,1,,Female,60-64,Retired,,Higher educational qualification below degree level,19,1,2018-03-26,0
+1298,325,1,,Male,45-49,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-03-28,1
+1297,326,1,,Male,35-39,"A student in University, college, higher education or adult education ",1-10,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",,1,2018-03-28,0
+1302,327,1,,Male,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",16,1,2018-03-29,1
+1303,327,0,"Husband, wife or partner",Female,30-34,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,0,2018-03-29,0
+1304,327,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,,0,2018-03-29,0
+1305,327,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,,0,2018-03-29,0
+1306,328,1,,Female,65-69,Retired,,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",65,1,2018-04-03,0
+1311,329,1,,Male,60-64,Self-employed,41-50,Higher educational qualification below degree level,17,1,2018-04-09,1
+1312,329,0,"Husband, wife or partner",Female,45-49,Self-employed,41-50,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1,16,0,2018-04-09,0
+1315,330,1,,Male,40-44,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-04-10,1
+1316,330,0,"Husband, wife or partner",Female,35-39,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",30,0,2018-04-10,0
+1317,330,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,96,0,2018-04-10,0
+1318,330,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,0-4,Pre-school/ nursery,,No formal qualifications,96,0,2018-04-10,0
+1324,331,1,,Male,50-54,Self-employed,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",22,1,2018-04-12,1
+1325,331,0,"Husband, wife or partner",Female,50-54,Self-employed,21-30,PhD,30,0,2018-04-12,0
+1330,332,1,,Female,40-44,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",21,1,2018-04-19,0
+1338,333,1,,Female,45-49,Paid work,21-30,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2018-04-30,1
+1339,333,0,"Husband, wife or partner",Male,45-49,Self-employed,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",24,0,2018-04-30,0
+1340,333,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,0-4,Pre-school/ nursery,,No formal qualifications,96,0,2018-04-30,0
+1331,334,1,,Male,45-49,Paid work,31-40,PhD,29,1,2018-04-30,1
+1332,334,0,"Husband, wife or partner",Female,45-49,Paid work,31-40,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2018-04-30,0
+1333,334,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,10-14,A student at school or in further education,,No formal qualifications,96,0,2018-04-30,0
+1334,334,0,"Son or daughter, inc. adopted, step, foster and in-law",Male,10-14,A student at school or in further education,,No formal qualifications,96,0,2018-04-30,0
+1335,334,0,"Son or daughter, inc. adopted, step, foster and in-law",Female,5-9,A student at school or in further education,,No formal qualifications,96,0,2018-04-30,0
+1336,335,1,,Male,30-34,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,0,2018-04-30,1
+1337,335,0,"Husband, wife or partner",Female,35-39,Paid work,41-50,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA",23,1,2018-04-30,0

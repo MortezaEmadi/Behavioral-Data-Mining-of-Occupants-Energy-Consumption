@@ -1,0 +1,38 @@
+{
+ "_comment": "define rules for best available measures",
+ "_allappliances":"microwaveSimple, microwaveOven, microwaveGrillAndOven, microwave, microwaveGrill, gasOven, gasCookingHobs, electricCookingHobs, electricoven, aga, Kettle, grill, toaster, combinedFridgeFreezer, separateFridge, separateFreezer, fridge, showerBoiler, showerElectric, bath, sink, fixedElectricHeaters, gasFire, woodStove, washingMachine, dishwasher, dryer, washingMachineDryer, tumbledrier, aquarium, vacuum",
+ "_new_comment": "Normally!==> min_standby_duration=min_off_duration /// acceptable_nan=0.5*min_standby_duration",
+ "_min_standby dur": "= (bekhosus dar Z-Wave ha!)(dar oem deghat ke hatman 2barabare SamPleRaTe e data bashe dge!)Hade'Akar zamani ke ye tak \"on_threshold\" mitune SABET bemune va ma oon ro standby(off) hesab nakonim va amalan naamzadi baraye OnChunk dar stepe aval farzesh konim! (chon on_threshold meghdare kamie va mitune modate ziadi sabet ASSUMED as StanBY bashe,ama age kmatar bashe va taghir kone mitunim shoroi vase OnChunk Bedoonim esh ke baed varify esh mikonim!",
+  "_acceptable_NAN": "=(nane azash bozorgatr0 nmipaziram(as nominee))(baz hade gahal bayad barbar ba yek+yek=2  barabre sample rate bashe(farzam dar code ruye yek+3=4 barabare *sample rate bude,hamin r0 bzan mage inke deghat roshan khamush shodan ya tedadesh ziade),chon har duratione khoDe poshte ham ha dar nominated YEK dur hast)hade'Aghal timi ke age Value<On_threshold bashe mitune 2ta OnChunk ro az ham joda kone ||Or: acceptable_nan= Hade'Aksar zamani ke yek \"NaN\" dar miane OnChunk mitune bakhshide beshe va ON hesabesh konim ||Or: ",
+  "_new_comment": "Min_off(amalan chon accptable_nan ejra kardi pas karbord nadre)= in mesle aaceptable nan hast vali elax nan haye kuchiktar az khodesh0 nmipazire!",
+  "_new_comment": "dar vaghe oon serfan ba thersholdi maghadi ro on mige va switchhashun define mikone,baed switch haro ba dur bala pain mikone!(albate yafte switchesh ebtekar dare-diff after diff!-)ke khob chon dar in marhaleye EDIT dge reading ro nmibine pas dare ghomare eshtebhai mikone,man alave bar threshold hamzaman sharayete duration eshun ham check mikonam ta ON khetab konam!",
+  "_min on": "= asan maeni nmide az ye sample rate kamtar vase device bezari,behtare =1 or 2samplerate bezari tamum",
+
+
+ "rules": [
+     {"appliance":"electricshower","homes":".*", "min_standby_duration":"2","acceptable_nan":"5","min_on_duration":"1","whennormal":"13", "max_on_duration":"55", "min_off_duration":"3", "normal_on_power":"1.1","on_power_threshold":"0.1", "extra":"1" },
+     {"appliance":"socket","homes":".*", "min_standby_duration":"2","acceptable_nan":"3","min_on_duration":"1","whennormal":"3", "max_on_duration":"200", "min_off_duration":"3", "normal_on_power":"1000","on_power_threshold":"550", "extra":"1" },
+     {"appliance":"electriccooker", "homes":".*", "min_on_duration":"1","min_standby_duration" : "3","min_off_duration":"0.3", "acceptable_nan":"4", "max_on_duration":"58", "on_power_threshold":"500","normal_on_power" : "1333","extra": "1","whennormal":"2"},
+     {"appliance":"toaster","homes":".*", "min_standby_duration":"180","acceptable_nan":"110","min_on_duration":"28","whennormal":"180", "max_on_duration":"1800", "min_off_duration":"30", "normal_on_power":"400","on_power_threshold":"40", "extra":"1" },
+     {"appliance":"microwave", "homes":".*", "min_standby_duration":"600", "normal_on_power":"900","acceptable_nan":"300","min_on_duration":"20", "min_off_duration":"30", "max_on_duration":"8000", "on_power_threshold":"33","whennormal":"70","extra": "1"},
+     {"appliance":"electricoven", "homes":".*", "min_on_duration":"10", "min_off_duration":"120", "max_on_duration":"10000", "on_power_threshold":"200" },
+     {"appliance":"electrichob", "homes":".*", "min_on_duration":"10", "min_off_duration":"120", "max_on_duration":"10000", "on_power_threshold":"200" },
+     {"appliance":"dishwasher","homes":".*", "min_standby_duration":"180","acceptable_nan":"330","min_on_duration":"120","whennormal":"180", "max_on_duration":"16000", "min_off_duration":"120", "normal_on_power":"30","on_power_threshold":"5", "extra":"1" },
+     {"appliance":"dishwasher175","homes":".*", "min_standby_duration":"250","acceptable_nan":"750","min_on_duration":"60","whennormal":"500", "max_on_duration":"19000", "min_off_duration":"120", "normal_on_power":"40","on_power_threshold":"5", "extra":"1" },
+     {"appliance":"kettle", "homes":".*", "min_standby_duration":"180","acceptable_nan":"100","min_on_duration":"30","whennormal":"180", "max_on_duration":"1500", "min_off_duration":"30", "normal_on_power":"450","on_power_threshold":"110", "extra":"1" },
+     {"appliance":"washingmachine", "homes":".*", "min_standby_duration":"480","acceptable_nan":"300","min_on_duration":"110","whennormal":"1000", "max_on_duration":"16200", "min_off_duration":"30", "normal_on_power":"200","on_power_threshold":"3", "extra":"1" },
+     {"appliance":"washingmachine146", "homes":".*", "min_standby_duration":"480","acceptable_nan":"300","min_on_duration":"110","whennormal":"1000", "max_on_duration":"21000", "min_off_duration":"30", "normal_on_power":"200","on_power_threshold":"3", "extra":"1" },
+     {"appliance":"comment!", "\"max_on_duration\"":"\"19900\" balaie ghable home146 hodude 17000 bud"},
+     {"appliance":"washingmachine175", "homes":".*", "min_standby_duration":"480","acceptable_nan":"500","min_on_duration":"110","whennormal":"1890", "max_on_duration":"15800", "min_off_duration":"30", "normal_on_power":"120","on_power_threshold":"5", "extra":"1" },
+     {"appliance":"washingmachine162", "homes":".*", "min_standby_duration":"2000","acceptable_nan":"1800","min_on_duration":"110","whennormal":"600", "max_on_duration":"15800", "min_off_duration":"30", "normal_on_power":"101","on_power_threshold":"71", "extra":"1" },
+     {"appliance":"tumbledrier", "homes":".*", "min_on_duration":"1200","min_off_duration":"600", "max_on_duration":"30000", "on_power_threshold":"50" },
+     {"appliance":"washingmachinetumbledrier", "homes":".*", "min_on_duration":"600","min_off_duration":"600", "max_on_duration":"30000", "on_power_threshold":"50" },
+     {"appliance":"vacuumcleaner", "homes":".*", "min_standby_duration":"480","acceptable_nan":"600","min_on_duration":"80","whennormal":"150", "max_on_duration":"7000", "min_off_duration":"30", "normal_on_power":"900","on_power_threshold":"200", "extra":"1" },
+     {"appliance":"electricfire", "homes":".*", "min_on_duration":"10", "min_off_duration":"120", "max_on_duration":"100000", "on_power_threshold":"200" },
+     {"appliance":"electricheater", "homes":".*", "min_on_duration":"10", "min_off_duration":"120", "max_on_duration":"100000", "on_power_threshold":"200" },
+     {"appliance":"dehumidifier","homes":".*", "min_standby_duration":"900","acceptable_nan":"2000","min_on_duration":"60","whennormal":"1800", "max_on_duration":"72000", "min_off_duration":"30", "normal_on_power":"150","on_power_threshold":"23", "extra":"1" },
+     {"appliance":"test.*", "homes":".*", "min_on_duration":"","min_off_duration":"", "border":"",
+      "on_power_threshold":"", "power_unit":"", "on_max_power":"" },
+     {"appliance":"tdheating", "homes":".*", "min_on_duration":"600","min_off_duration":"900", "max_on_duration":"30000", "on_power_threshold":"900" }
+  ]
+}
